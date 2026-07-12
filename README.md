@@ -2,12 +2,6 @@
 
 Kho lưu trữ toàn bộ bài tập và lời giải các bài toán Cấu trúc dữ liệu và Giải thuật (DSA) của tôi trong quá trình học tập và luyện tập.
 
-## 🛠️ Ngôn ngữ sử dụng
-* Primary Language: **C++** (hoặc Java / C# tùy theo ngôn ngữ bạn đang code)
-* Nền tảng luyện tập: CodePTIT, LeetCode, Codeforces.
-
----
-
 Mục lục cấu trúc dữ liệu & giải thuật
 
 ### 1. Thuật toán cơ bản & Chia để trị (Basic Algorithms & Divide and Conquer)
